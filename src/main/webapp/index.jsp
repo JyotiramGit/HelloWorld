@@ -44,7 +44,7 @@ article {
 <div class="container">
 
 <header>
-   <h1>Hello DevOps World !</h1>
+   <h1>EMS Implementation !</h1>
 </header>
   
 <nav>
@@ -52,16 +52,17 @@ article {
     <li><a href="#">Jenkins</a></li>
     <li><a href="#">Maven</a></li>
     <li><a href="#">Github</a></li>
-  </ul>
+    <Li><a href="#">AppOrbit</a></li>  
+</ul>
 </nav>
 
 <article>
-  <h1>CI Server Implementation</h1>
+  <h1>DevOps-AppOrbit</h1>
   <p>Phase 1 - Implemented DevOps CI server with the help of Jenkins,Maven and GIT.</p>
   <p>Phase 2 - Integration of Jenkins with AppOrbit.</p>
 </article>
 
-<footer>DevOps Team !!!</footer>
+<footer> ...DevOps Team !</footer>
 
 </div>
 
